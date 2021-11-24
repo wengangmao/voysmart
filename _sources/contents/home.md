@@ -3,7 +3,6 @@
 
 **A virtual team platform to work with energy efficiency measures in shipping**
 
-+++
 ---
 
 
@@ -23,7 +22,6 @@ name: directive-fig
 <center><span style = "color: red; font-weight: 500;  font-size: 30px">A demo for the voyage optimization developed by us!</span></center>  <br />
 
 
-+++
 ---
 
 ```{admonition} <span style = "color:red; font-weight: 500; font-size: 20px"> Common issues in the upcoming month</span>
@@ -58,7 +56,6 @@ name: directive-fig
 * Master thesis proposals ([Access](http://www.chalmers.se/en/departments/m2/education/master/Pages/examensarbete-p%c3%a5-mastersniva.aspx))
 
 
-+++
 ---
 
 ## 4. Project report numbers at Chalmers (internal use)
@@ -77,7 +74,7 @@ name: directive-fig
 - AI EEMs: 30250037
 
 
-+++
+
 ---
 
 ## Contact us for more information:
@@ -102,5 +99,5 @@ Phone: + 46 (0) 31 772 1483 <br />
 <i class="fas fa-chalkboard-teacher"></i>&ensp;National Engineering Research Center for Water Transport Safety <br />
 <i class="fas fa-graduation-cap"></i>&ensp;Wuhan University of Technology <br />
 <i class="fas fa-map"></i>&ensp;Wuhan, China  <br />
-<i class="fas fa-shipping-fast"></i>&ensp;dawu#whut.endu.cn
+<i class="fas fa-shipping-fast"></i>&ensp;dawu#whut.edu.cn
 

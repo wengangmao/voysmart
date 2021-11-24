@@ -14,6 +14,7 @@ alt: large funding agencies supporting our research
 ---
 ```
 
+<br />
 
 
 ## Project background
@@ -37,7 +38,7 @@ ESR7: Real-time multi-objective voyage optimization algorithms based on on-line 
 - Traffic modelling and perception (machine learning, COLREG risk identification,…)
 - Ship path following (control and optimization)
 
-+++
+
 ---
 
 ## Our research platform
